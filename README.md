@@ -5,7 +5,7 @@ README de Perfil — @Evelyn-boot
 <!-- Cabeçalho com efeito de digitação (rosa) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2800&pause=600&center=true&vCenter=true&width=900&color=%23FF69B4&lines=Oi%2C+eu+sou+a+%C3%89velyn+Rodrigues+%F0%9F%91%8B;Analista+de+Sistemas+%7C+Front-end+%7C+Cybersecurity;FIAP+%E2%80%A2+projetos+pr%C3%A1ticos+e+foco+em+qualidade;Bem-vinda(o)+ao+meu+GitHub!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2800&pause=600&center=true&vCenter=true&width=900&color=%23FF69B4&lines=Olá%2C+eu+sou+a+%C3%89velyn+Rodrigues+%F0%9F%91%8B;Analista+de+Sistemas+%7C+Full-stack+%7C+Cybersecurity;FIAP+%E2%80%A2+projetos+pr%C3%A1ticos+e+foco+em+qualidade;Bem-vindo(a)+ao+meu+GitHub!"/>
   </a>
 </p>
 
@@ -25,9 +25,9 @@ README de Perfil — @Evelyn-boot
 ---
 
 ## ✨ Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (FIAP)** com trilha de **Cybersecurity**.  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (FIAP)** com trilha paralela em **Cybersecurity**.  
 - 💻 Foco em **Front-end** (UI/UX) e base sólida de **lógica e dados**.  
-- 🚀 Gosto de **projetos práticos**, acessibilidade e segurança desde o início.
+- 🚀 Gosto de **projetos diferenciados**, acessibilidade e segurança desde o início.
 
 ---
 
